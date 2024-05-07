@@ -17,3 +17,7 @@ spec:
         image: harsha/nodejs:img1
         ports:
         - containerPort: 3000
+
+
+  
+
